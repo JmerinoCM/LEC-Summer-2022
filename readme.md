@@ -10,7 +10,7 @@ permiten interactuar con los resultados de cada partido para ver posibles escena
 
 ## Instrucciones para correr la aplicación web
 
-1. Abrir la carpeta Rshiny
+1. Abrir la carpeta Shiny
 2. Abrir el archivo ui.R
 3. Seleccionar la opción " Run App "
 4. Interactuar con la app
@@ -18,4 +18,4 @@ permiten interactuar con los resultados de cada partido para ver posibles escena
 ## Base de datos utilizada (En progreso)
 
 La aplicación al ser realizada al final de la jornada 16, restando 10 partidos a disputar, queda la existencia de 1024 finales distintos al final de la jornada 18,
-la construccion de dichos escenarios es un ejercio interesante que proximamente se encontraran los detalles de como fue desarrollado. 
+la construccion de dichos escenarios es un ejercio interesante del cual proximamente se detallará como fue desarrollado. 
